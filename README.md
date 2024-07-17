@@ -14,16 +14,16 @@ My achievements reflect my commitment to excellence and continuous learning. As 
 
 ## 🌟 Projects
 
-### [Connect](https://connect-phi-one.vercel.app/)
+### [Connect](https://connect-phi-one.vercel.app/) 🖇️
 Connect is a dynamic social networking website like Twitter, built with **Node.js**, **React.js**, **MongoDB**, and **Express.js**. It features viewing friends' profiles and posts, secure authentication and authorization, file upload functionality for images, and a light/dark mode with responsive design.
 
-### [AcademiBot](https://www.linkedin.com/posts/bhatiarishabh02_academibot-chatbot-educationtech-activity-7149950337217454080--x_P?utm_source=share&utm_medium=member_desktop)
+### [AcademiBot](https://www.linkedin.com/posts/bhatiarishabh02_academibot-chatbot-educationtech-activity-7149950337217454080--x_P?utm_source=share&utm_medium=member_desktop) 🎓
 AcademiBot, powered by **Python**, **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**, enhances the educational journey with ease. Seamlessly browse and go through question papers for efficient exam preparation in its user-friendly interface.
 
-### [AstronomyDash](https://rishabh022.github.io/AstronomyDash/)
+### [AstronomyDash](https://rishabh022.github.io/AstronomyDash/) 🌌
 AstronomyDash is a space website designed to educate users about planets, stars, galaxies, and the latest space news and movie recommendations. Developed using **HTML**, **CSS**, and **JavaScript**, it provides an engaging platform for enthusiasts to explore the cosmos.
 
-### [OCHI UI Clone](https://rishabh022.github.io/OCHI-Clone/)
+### [OCHI UI Clone](https://rishabh022.github.io/OCHI-Clone/) 🎨
 OCHI is a **ReactJS**-based project aimed at replicating a user interface.
 
 ---
