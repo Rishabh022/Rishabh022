@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhatiarishabh02/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Rishabh022/Rishabh022) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhbhatia02@gmail.com)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/_Rishabh_Bhatia?theme=dark&font=baloo&extension=null)
 ---
 
 ## 🚀 Objective
