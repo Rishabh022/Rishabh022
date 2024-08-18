@@ -18,6 +18,9 @@ My achievements reflect my commitment to excellence and continuous learning. As 
 ### [Connect](https://connect-phi-one.vercel.app/) 🖇️
 Connect is a dynamic social networking website like Twitter, built with **Node.js**, **React.js**, **MongoDB**, and **Express.js**. It features viewing friends' profiles and posts, secure authentication and authorization, file upload functionality for images, and a light/dark mode with responsive design.
 
+### [Journal App](https://github.com/Rishabh022/Journal_Spring_Boot)
+Built as a learning project in Java Spring Boot backend with MongoDB and JWT. Added user management, journal entries, mail services, and a log book. Learned annotations and used Lombok to streamline code.
+
 ### [AcademiBot](https://www.linkedin.com/posts/bhatiarishabh02_academibot-chatbot-educationtech-activity-7149950337217454080--x_P?utm_source=share&utm_medium=member_desktop) 🎓
 AcademiBot, powered by **Python**, **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**, enhances the educational journey with ease. Seamlessly browse and go through question papers for efficient exam preparation in its user-friendly interface.
 
